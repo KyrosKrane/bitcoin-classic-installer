@@ -1,6 +1,14 @@
 # bitcoin-classic-installer
 A script to download and install Bitcoin Classic binary clients in Linux.
 
+
+---
+### THIS REPOSITORY IS ARCHIVED AND IS NOT MAINTAINED.
+### BITCOIN CLASSIC EFFECTIVELY NO LONGER EXISTS.
+### DO NOT USE OR RUN THIS SCRIPT!
+---
+
+
 ## How to use the script:
 Well, obviously, you can download it directly from here. :) However, if you are running off a VPS or remote server, it can be a bit trickier. The easiest way is with wget:
 
